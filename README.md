@@ -1,25 +1,28 @@
 ### #189 Zero Crossing Detection
 Detect when an AC signal crosses zero (part of TRIAC control project)
 
-A safe experiment in mains zero crossing with an Arduino using interrupts.
-JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/
+## See YouTub video #189 here: https://youtube.com/ralphbacon
+### Direct link to video: https://youtu.be/OFDfl9suVKA
 
-As part of my quest to replace the potentially dangerous electronics in a recently acquired fan speed controller, the first step is for the Arduino to know exactly when the mains AC waveform is at the zero point in its cycle. 
+A safe experiment in mains zero crossing with an Arduino using interrupts.  
+### JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/
 
-Here we can see how easy it is to configure the Arduino with just a few lines of code to detect this using a simple interrupt routine.
+As part of my quest to replace the potentially dangerous electronics in a recently acquired fan speed controller, the first step is for the Arduino to know exactly when the mains AC waveform is at the zero point in its cycle.  
 
-We also have a 2 minute look at the progress on my Smart Phone Charger, as the PCB from JCLPCB has arrived and is looking good!
+Here we can see how easy it is to configure the Arduino with just a few lines of code to detect this using a simple interrupt routine.  
+
+We also have a 2 minute look at the progress on my Smart Phone Charger, as the PCB from JCLPCB has arrived and is looking good!  
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
-In case you missed the links to these products:
+In case you missed the links to these products:  
 
-Geekcreit® AC 60-500V 0-100A D18 Square LED Digital Dual Display Voltmeter Ammeter Voltage Gauge Current Meter
+Geekcreit® AC 60-500V 0-100A D18 Square LED Digital Dual Display Voltmeter Ammeter Voltage Gauge Current Meter  
 https://www.banggood.com/Geekcreit-AC-60-500V-0-100A-D18-Square-LED-Digital-Dual-Display-Voltmeter-Ammeter-Voltage-Gauge-Current-Meter-p-1488117.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-Geekcreit® Large Size Rainbow Color Digital Tube DS3231 Clock DIY Kit  
+Geekcreit® Large Size Rainbow Color Digital Tube DS3231 Clock DIY Kit   
 https://www.banggood.com/Geekcreit-Large-Size-Rainbow-Color-Digi
 tal-Tube-DS3231-Clock-DIY-Kit-p-1323917.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
@@ -38,7 +41,7 @@ https://www.banggood.com/1_5mm-2mm-2_5mm-3mm-3_5mm-Width-1_5M-Length-Desoldering
 DANIU Heavy Duty Soldering Solder Iron Tip Cleaner $6.80 (What I use)  
 https://www.banggood.com/DANIU-Heavy-Duty-Soldering-Solder-Iron-Tip-Cleaner-Steel-Wire-p-1182609.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey  
 
 My channel, GitHub and blog are here:  
 ------------------------------------------------------------------  
