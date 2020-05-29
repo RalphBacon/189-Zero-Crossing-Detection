@@ -4,6 +4,8 @@ Detect when an AC signal crosses zero (part of TRIAC control project)
 ## See YouTub video #189 here: https://youtube.com/ralphbacon
 ### Direct link to video: https://youtu.be/OFDfl9suVKA
 
+<img src="/Circuit Diagram.jpg" width="50%">
+
 A safe experiment in mains zero crossing with an Arduino using interrupts.  
 ### JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/
 
